@@ -1,0 +1,4 @@
+﻿sun direction lighting
+     - per pixel?
+light distance dropoff
+
